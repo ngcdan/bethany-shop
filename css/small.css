@@ -88,6 +88,8 @@ nav ul.open {
 
 nav ul {display: none;}
 
+main img {width: 100%;}
+
 footer {
     background-color: #9b87b8;
     font-size: 1.2rem;
